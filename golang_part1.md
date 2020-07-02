@@ -61,7 +61,7 @@ For documentation
 > go doc runtime NumCPU   
 
 For source code  
-go doc -src runtime NumCPU  
+> go doc -src runtime NumCPU  
 
 
 

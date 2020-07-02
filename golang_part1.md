@@ -55,7 +55,15 @@ Expressions make Go do something.
 
 Docs and comentaries  
 
-> godoc  -src fmt  Println
+> godoc  -src fmt  Println  
+
+For documentation   
+> go doc runtime NumCPU   
+
+For source code  
+go doc -src runtime NumCPU  
+
+
 
 
 

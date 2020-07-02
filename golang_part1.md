@@ -53,7 +53,9 @@ Package scope, file scope, block scope
 
 Expressions make Go do something.  
 
-godoc  -src fmt  Println
+Docs and comentaries  
+
+> godoc  -src fmt  Println
 
 
 

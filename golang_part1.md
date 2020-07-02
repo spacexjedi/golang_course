@@ -47,6 +47,14 @@ How to run multiple Go files
 
 Packages in Go  are equivalent to include in C and import in Python.
 
+_______________________
+
+Package scope, file scope, block scope  
+
+Expressions make Go do something.  
+
+godoc  -src fmt  Println
+
 
 
 
